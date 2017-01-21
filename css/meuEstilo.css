@@ -1,0 +1,16 @@
+.paragrafoPersonalizado{
+    color: darkslateblue;
+}
+.panelTextoPersonalizado{
+    background-color: lightsteelblue;
+    border-bottom-color: darkcyan;
+    border-bottom-width: 1px;
+    border-top-color: darkcyan;
+    border-top-width: 1px;
+    padding: 10px;
+}
+.meuPanel{
+    background-color: transparent;
+    border-color: transparent;
+    padding: 0.625rem;
+}
